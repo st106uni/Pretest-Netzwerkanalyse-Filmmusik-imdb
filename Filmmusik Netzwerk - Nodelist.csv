@@ -1,4 +1,3 @@
-23.06.,Pretest Datenerhebung,,,,,,,,,
 id,name,type,oscar,oscar nom.,year,genre,studio,sex,nationality,birthyear
 thshre100,The Shawshank Redemption,film,no,yes,1994,Drama,Caste Rock Entertainment,99,99,99
 frda200,Frank Darabont,director,99,99,99,99,99,m,USA,1959
@@ -11,7 +10,8 @@ chno200,Christoper Nolan,director,99,99,99,99,99,m,England,1970
 janeho300,James Newton Howad,composer,99,99,99,99,99,m,USA,1951
 hazi300,Hans Zimmer,composer,99,99,99,99,99,m,Germany,1957
 thgodfprtII100,The Godfather Part II,film,yes,yes,1974,Drama,Paramount Pictures,99,99,99
-12anma100,"12 Angry Men",film,no,no,1957,Drama,Orioan-Nova Productions,99,99,99
+12anma100,"12 Angry Men
+",film,no,no,1957,Drama,Orioan-Nova Productions,99,99,99
 silu200,Sidney Lumat,director,99,99,99,99,99,m,USA,1924
 keho300,Kenyon Hokpins,composer,99,99,99,99,99,m,USA,1914
 throfthki100,The Lord of the Rings: The Return of the King,film,yes,yes,2003,Fantasy,New Line Cinema,99,99,99
