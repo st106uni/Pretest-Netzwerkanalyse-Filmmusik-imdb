@@ -1,39 +1,39 @@
 id,name,type,oscar,oscar nom.,imdb-rating,year,genre,studio,sex,nationality,birthyear
 thshre100,The Shawshank Redemption,film,no,yes,9,3,1994,Drama,Caste Rock Entertainment,99,99,99
 frda200,Frank Darabont,director,99,99,99,,99,99,m,USA,1959
-thne300,Thomas Newman,composer,99,99,99,99,99,m,USA,1955
-thegodf100,The Godfather,film,no,yes,9,2,1972,Drama,Paramount Pictures,99,99,99
-frfoco200,Francis Ford Coppola,director,99,99,99,99,99,m,USA,1939
-niro300,Nino Rota,composer,99,99,99,99,99,m,Italy,1911
-thdakn100,The Dark Knight,film,no,no,2008,Thriller,Warner Bros. Pictures,99,99,99
-chno200,Christoper Nolan,director,99,99,99,99,99,m,England,1970
-janeho300,James Newton Howad,composer,99,99,99,99,99,m,USA,1951
-hazi300,Hans Zimmer,composer,99,99,99,99,99,m,Germany,1957
-thgodfprtII100,The Godfather Part II,film,yes,yes,1974,Drama,Paramount Pictures,99,99,99
+thne300,Thomas Newman,composer,99,99,99,,99,99,m,USA,1955
+thegodf100,The Godfather,film,no,yes,9,2,,1972,Drama,Paramount Pictures,99,99,99
+frfoco200,Francis Ford Coppola,director,99,99,99,,99,99,m,USA,1939
+niro300,Nino Rota,composer,99,99,99,,99,99,m,Italy,1911
+thdakn100,The Dark Knight,film,no,no,,2008,Thriller,Warner Bros. Pictures,99,99,99
+chno200,Christoper Nolan,director,99,99,99,,99,99,m,England,1970
+janeho300,James Newton Howad,composer,99,99,99,,99,99,m,USA,1951
+hazi300,Hans Zimmer,composer,99,99,99,,99,99,m,Germany,1957
+thgodfprtII100,The Godfather Part II,film,yes,yes,,1974,Drama,Paramount Pictures,99,99,99
 12anma100,"12 Angry Men
-",film,no,no,1957,Drama,Orioan-Nova Productions,99,99,99
-silu200,Sidney Lumat,director,99,99,99,99,99,m,USA,1924
-keho300,Kenyon Hokpins,composer,99,99,99,99,99,m,USA,1914
-throfthki100,The Lord of the Rings: The Return of the King,film,yes,yes,2003,Fantasy,New Line Cinema,99,99,99
-peja200,Peter Jackson,director,99,99,99,99,99,m,New Zealand,1961
-hosho300,Howard Shore,composer,99,99,99,99,99,m,Canada,1946
-schili100,Schindlers List,film,yes,yes,1993,Drama,Universial Pictures,99,99,99
-stsp200,Steven Spielberg,director,99,99,99,99,99,m,USA,1946
-jowi300,John Williams,composer,99,99,99,99,99,m,USA,1932
-thfeofthri100,The Lord of the Rings: The fellowship of the ring,film,yes,yes,2001,Fantasy,New Line Cinema,99,99,99
-pufi100,Pulp Fiction,film,no,no,1994,Drama,A Band Apart,99,99,99
-quta200,Quentin Tarantino,director,99,99,99,99,99,m,USA,1963
-ilbuilbrilca100,"Il buono, il brutto, il cattivo",film,no,no,1966,Western,Produzioni Europee Associati,99,99,99
-sele200,Sergio Leone,director,99,99,99,99,99,m,Italy,1929
-enmo300,Ennio Morricone,composer,99,99,99,99,99,m,Italy,1928
-thtwto100,The Lord of the Rings: The Two Towers,film,no,no,2002,Fantasy,New Line Cinema,99,99,99
-fogu100,Forrest Gump,film,no,yes,1994,Drama,Paramount Pictures,99,99,99
-roze200,Robert Zemeckis,director,99,99,99,99,99,m,USA,1952
-alsi300,Alan Silvestri,composer,99,99,99,99,99,m,USA,1950
-ficu100,Fight Club,film,no,no,1999,Drama,20th Century Fox,99,99,99
-dafi100,David Fincher,director,99,99,99,99,99,m,USA,1962
-joki300,John King,composer,99,99,99,99,99,m,USA,1965
-misi300,Michael Simpson,composer,99,99,99,99,99,m,USA,1965
-ins100,Inception,film,no,yes,2010,Sciene Fiction,Legendary Pictures,99,99,99
-swesb100,Star Wars Episode V - The Empire strikes back,film,no,yes,1980,Sciene Fiction,Lucasfilm Ltd.,99,99,99
-ivke200,Irvin Kershner,director,99,99,99,99,99,m,USA,1923
+",film,no,no,,1957,Drama,Orioan-Nova Productions,99,99,99
+silu200,Sidney Lumat,director,99,99,99,,99,99,m,USA,1924
+keho300,Kenyon Hokpins,composer,99,99,99,,99,99,m,USA,1914
+throfthki100,The Lord of the Rings: The Return of the King,film,yes,yes,,2003,Fantasy,New Line Cinema,99,99,99
+peja200,Peter Jackson,director,99,99,99,,99,99,m,New Zealand,1961
+hosho300,Howard Shore,composer,99,99,99,,99,99,m,Canada,1946
+schili100,Schindlers List,film,yes,yes,,1993,Drama,Universial Pictures,99,99,99
+stsp200,Steven Spielberg,director,99,99,99,,99,99,m,USA,1946
+jowi300,John Williams,composer,99,99,99,,99,99,m,USA,1932
+thfeofthri100,The Lord of the Rings: The fellowship of the ring,film,yes,yes,,2001,Fantasy,New Line Cinema,99,99,99
+pufi100,Pulp Fiction,film,no,no,,1994,Drama,A Band Apart,99,99,99
+quta200,Quentin Tarantino,director,99,99,99,,99,99,m,USA,1963
+ilbuilbrilca100,"Il buono, il brutto, il cattivo",film,no,no,,1966,Western,Produzioni Europee Associati,99,99,99
+sele200,Sergio Leone,director,99,99,99,,99,99,m,Italy,1929
+enmo300,Ennio Morricone,composer,99,99,99,,99,99,m,Italy,1928
+thtwto100,The Lord of the Rings: The Two Towers,film,no,no,,2002,Fantasy,New Line Cinema,99,99,99
+fogu100,Forrest Gump,film,no,yes,,1994,Drama,Paramount Pictures,99,99,99
+roze200,Robert Zemeckis,director,99,99,99,,99,99,m,USA,1952
+alsi300,Alan Silvestri,composer,99,99,99,,99,99,m,USA,1950
+ficu100,Fight Club,film,no,no,,1999,Drama,20th Century Fox,99,99,99
+dafi100,David Fincher,director,99,99,99,,99,99,m,USA,1962
+joki300,John King,composer,99,99,99,,99,99,m,USA,1965
+misi300,Michael Simpson,composer,99,99,99,,99,99,m,USA,1965
+ins100,Inception,film,no,yes,,2010,Sciene Fiction,Legendary Pictures,99,99,99
+swesb100,Star Wars Episode V - The Empire strikes back,film,no,yes,,1980,Sciene Fiction,Lucasfilm Ltd.,99,99,99
+ivke200,Irvin Kershner,director,99,99,99,,99,99,m,USA,1923
