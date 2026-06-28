@@ -5,18 +5,18 @@ Wert,Kommentar
 edgelist,Grundregel: Die Edgelist darf pro Spalte immer nur einen Wert enthalten. Bis auf die ID idealerweise numerisch codiert (als Zahl).
 from,mit ID
 to ,zu ID
-relationship,"zwischen movie und director oder composer = 1, zwischen composer und director = 2 (2 ist wichtiger für unsere Forschung)"
+relationship,"zwischen film und director oder composer = 1, zwischen composer und director = 2 (2 ist wichtiger für unsere Forschung)"
 year,"Erscheinungsjahr des Films, wie in der Nodelist"
 ,
 ,
 nodelist,Grundregel: die IDs der Nodelist müssen mit den IDs der Edgelist komplett übereinstimmen. Ausprägungen der Attribute in der Regel numerisch definieren.
 year,"Erscheinungsjahr des Films nach Zahl, zB ""2001"""
-id,"erste zwei Buchstaben des Namens und dann nach Kategorie: 100= movie, 200=director, 300=composer, zB stsp200 für Steven Spielberg"
+id,"erste zwei Buchstaben des Namens und dann nach Kategorie: 100= film, 200=director, 300=composer, zB stsp200 für Steven Spielberg"
 name,"Name des Knotens, alle Namen ausschreiben"
 sex,"m steht für male, f für female, d für diverse"
 oscar,gewonnene Oscars: yes oder no
 oscar nom.,nominiert yes oder no
-type,"Definiert den Typ des Knotens: ""movie"", ""director"" oder ""composer"""
+type,"Definiert den Typ des Knotens: ""film"", ""director"" oder ""composer"""
 genre,"als Texteintrag eintragen zb ""Thriller"", ""Horror"", ""Drama"" etc. (Sind bei imcb mehrere Genres zugeordnet zählt nur das erstgenannte)"
 99,"definiert fehlende Werte, bei der Datenerhebung, zB bei sex oder birthyear eines Films einfach 99 in die Spalte schreiben"
 studio,"als Texteintrag eintragen je nach Name des Produktionsstudios hinter dem Film ""20th Century Fox"", ""Universial"", ""Columbia"""
@@ -24,8 +24,8 @@ birthyear,"Geburtsjahr von composer oder director ""1975"", ""1940"""
 nationality,"Nationalität von composer oder director ""USA"", ""Germany"", bei 2 Nationalitäten den Geburtstort nehmen"
 ,
 Sonderfälle,
-Spezielfall:,"ein Film hat 2 composer, dann beide erheben, zwei Mal relationships 1 zu dem Film"
-Spezialfall,
+Spezielfall 1:,"ein Film hat 2 composer, dann beide erheben, zwei Mal relationships 1 zu dem Film"
+Spezialfall2:,"ein Film hat nur einen Soundtrack ohne instrumental score, ist aber im Top-Ranking: zB Pulp Fiction, dann trotzdem erheben nur mit director, ohne composer"
 ,
 Bearbeitungshinweise,
 "Achten Sie bitte auf die Kommentare in den Spalten. Diese erklären genauer, welche Daten erfasst werden. ",
